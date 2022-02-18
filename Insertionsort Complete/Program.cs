@@ -54,7 +54,7 @@ namespace Insertionsort_Complete
             }
 
             Console.WriteLine("Elements: " + length);
-            Console.WriteLine(" Elapsed Time for Insertionsort: {0} ms", stopwatch.ElapsedMilliseconds);
+            Console.WriteLine(" Elapsed Time for Insertionsort: {0} ms", stopwatch.Elapsed.Milliseconds);
         }
     }
 }
