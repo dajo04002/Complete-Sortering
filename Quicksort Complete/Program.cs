@@ -80,7 +80,7 @@ namespace Quicksort_Complete
             }
 
             Console.WriteLine("Elements: " + length);
-            Console.WriteLine(" Elapsed Time for Quicksort:  ms", stopwatch.ElapsedMilliseconds);
+            Console.WriteLine(" Elapsed Time for Quicksort: {0} ms", stopwatch.ElapsedMilliseconds);
         }
     }
 }
