@@ -60,7 +60,7 @@ namespace Selectionsort_Complete
             }
 
             Console.WriteLine("Elements: " + length);
-            Console.WriteLine(" Elapsed Time for Selectionsort: {0} ms", stopwatch.ElapsedMilliseconds);
+            Console.WriteLine(" Elapsed Time for Selectionsort: {0} ms", stopwatch.Elapsed.Milliseconds);
         }
     }
 }
