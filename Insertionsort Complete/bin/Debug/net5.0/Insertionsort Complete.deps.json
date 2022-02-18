@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Insertionsort Complete/1.0.0": {
+        "runtime": {
+          "Insertionsort Complete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Insertionsort Complete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

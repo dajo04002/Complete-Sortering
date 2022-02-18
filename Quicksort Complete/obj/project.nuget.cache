@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUHtrToZYzgbvdyZH11TwK7fOYTZKwlQdCSvRcTrGk0/wI0okejFHdPtAwdbrdLu3uyECoG33OPBILu0yzsqTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davve\\source\\repos\\Quicksort Complete\\Quicksort Complete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davve\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
